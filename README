@@ -1,0 +1,12 @@
+Para ejecutar :
+Editar el file de la ruta: game-poker\src\main\resources
+Poner el puerto conveniente 
+rutaFile: poner la ruta origen de jugadas
+rutaFileRes: poner la ruta para las respuestas de las jugadas
+
+Ejecutar el siguiente comando
+mvn spring-boot:run
+
+Probar con el Endpoint GET :http://localhost:1213/api/v1/game/evaluar
+
+
