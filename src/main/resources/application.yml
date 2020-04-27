@@ -1,0 +1,5 @@
+server:
+  port: 1213
+  
+rutaFile: E:/Cursos\Spring_Cloud\workspace\game-poker\files\jugadas.txt
+rutaFileRes: E:/Cursos\Spring_Cloud\workspace\game-poker\files\resultados.txt
